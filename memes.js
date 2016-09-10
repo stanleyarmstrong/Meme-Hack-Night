@@ -42,9 +42,3 @@ function flip6(){
   j.style.transitionDuration ="0.5s";
 
 }
-flip2();
-flip();
-flip3();
-flip4();
-flip5();
-flip6();
