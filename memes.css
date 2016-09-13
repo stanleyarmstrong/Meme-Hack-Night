@@ -1,4 +1,8 @@
-
+div.meme2{
+  display:block;
+  margin:auto;
+  width: 40%;
+}
 div.preston{
   background-image: "preston.png";
 }
